@@ -47,7 +47,7 @@ Here are some projects I'm proud of:
 
 - **Portfolio:** [Murtuza.dev](https://murtuza.dev)
 - **LinkedIn:** [mmurtuzah004](https://www.linkedin.com/in/mmurtuzah004/)
-- **X:** [mmurtuzah](hhttps://twitter.com/MMurtuzaH)
+- **X:** [mmurtuzah](https://twitter.com/MMurtuzaH)
 - **Email:** [murtuza@murtuza.dev](murtuza@murtuza.dev)
 
 ---
