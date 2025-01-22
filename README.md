@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome! 👋
 
 Hi there! I'm Murtuza Hussain (a.k.a. mmurtuza), a passionate developer and technology enthusiast. I thrive on building innovative solutions, learning new technologies, and sharing my journey with the community.
 
@@ -7,10 +7,9 @@ Hi there! I'm Murtuza Hussain (a.k.a. mmurtuza), a passionate developer and tech
 ## 🌟 About Me
 
 - 💻 I specialize in Larvel and Go/Golang.
-- 📚 Constantly learning and exploring new programming languges and web tchnologies.
+- 📚 Constantly learning and exploring new programming languages and web technologies.
 - 🚀 Excited about solving real-world problems with code and contributing to open-source projects.
-- 🌱 Currently diving deeper into Golang, PHP, Laravel and Javascript.
-<!--- - 💬 Let's connect! Feel free to ask me about. --->
+- 🌱 Currently diving deeper into Golang, PHP, Laravel, and Javascript.
 
 ---
 
