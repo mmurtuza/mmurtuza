@@ -32,13 +32,10 @@ Hi there! I'm Murtuza Hussain (a.k.a. mmurtuza), a passionate developer and tech
 
 Here are some projects I'm proud of:
 
-1. **[Project Name](link-to-project)**
-   - 📌 *Brief description of the project.*
-   - 🔧 *Tech stack used.*
+1. **[My Portfolio](https://murtuza.dev)**
+   - 📌 *Created with NextJs.*
+   - 🔧 *NextJS*
 
-2. **[Project Name](link-to-project)**
-   - 📌 *Brief description of the project.*
-   - 🔧 *Tech stack used.*
 
 ---
 
