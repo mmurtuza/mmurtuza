@@ -33,8 +33,9 @@ Hi there! I'm Murtuza Hussain (a.k.a. mmurtuza), a passionate developer and tech
 Here are some projects I'm proud of:
 
 1. **[My Portfolio](https://murtuza.dev)**
-   - 📌 *Created with NextJs.*
-   - 🔧 *NextJS*
+   - <img src="https://skillicons.dev/icons?i=nextjs" width=20px/> *Created with NextJs.*
+   - <img src="https://skillicons.dev/icons?i=nodejs" width=20px/> *Node JS*
+   - <img src="https://skillicons.dev/icons?i=js" width=20px/> *JavaScript*
 
 
 ---
