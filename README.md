@@ -14,7 +14,7 @@
 
 Hi there! I'm **Murtuza Hussain** (a.k.a. mmurtuza), a passionate developer and technology enthusiast. I thrive on building innovative solutions, learning new technologies, and sharing my journey with the community.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmurtuza&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmurtuza&theme=radical)](https://github.com/mmurtuza/github-profile-trophy)
 
 ---
 
