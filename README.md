@@ -48,7 +48,7 @@ Hi there! I'm **Murtuza Hussain** (a.k.a. mmurtuza), a passionate developer and 
 - **Tools & Platforms:** Git, Docker, Nginx, Linux
 - **Other Interests:** Machine Learning, LLM
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmurtuza&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmurtuza&layout=pie&theme=radical)
 
 
 ---
